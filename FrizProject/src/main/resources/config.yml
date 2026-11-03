@@ -1,0 +1,25 @@
+spawn:
+  world: "FrizWorld"
+  x: 0
+  y: 90
+  z: 0
+kits:
+  start-hours: 12
+  magister-hours: 48
+  vlastelin-hours: 24
+events:
+  mystic-interval-min: 20
+  beacon-killer-interval-min: 60
+  beacon-lock-sec: 300
+  flower-lock-sec: 600
+  volcano-interval-min: 30
+dropclear:
+  interval-sec: 600
+shop:
+  sell:
+    diamond: 100
+    gold_ingot: 50
+    iron_ingot: 30
+    coal: 10
+    rotten_flesh: 3
+donate-start-fk: 0
